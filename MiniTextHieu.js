@@ -52,6 +52,7 @@ let nhapvaob=+document.getElementById('nhapvaob').value;
     let theky = year/100
     document.getElementById('theky').innerText=("thế kỷ = "+ theky);
 } */
+//bai3 e
 function onepiece7() {
     let a = +document.getElementById('a').value;
     let b = +document.getElementById('b').value;
